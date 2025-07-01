@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Mariam
 
-<!--
-**Mariam-kass1/Mariam-kass1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en ingénierie informatique  
+💻 Passionnée par le développement web
+🚀 Curieuse, créative, et toujours en quête de nouveaux projets à explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+
+- **Langages** : JavaScript, Python, HTML, CSS, SQL  
+- **Frameworks & bibliothèques** : Vue.js, Tailwind CSS, Node.js  
+- **Outils** : Git, GitHub, VS Code, Postman, Figma
+
+---
+
+## 🌱 Projets en cours
+
+- ✅ Application de productivité en Vue.js  
+- 📚 Système de gestion de bibliothèque (avec statistiques, emprunts, réservations)  
+- 🔒 Simulations d’attaques web (XSS, CSRF) pour apprendre la cybersécurité
+
+---
+
+## 📈 Mes statistiques GitHub
+
+![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariam-kass1&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-kass1&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Retrouve-moi ici
+
+ 
+- 📧 Email : mariam.kassas0@gmail.com 
+
+---
+
+> ✨ “Apprendre, pratiquer, partager.” – Ma devise de développeuse
