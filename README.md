@@ -8,20 +8,26 @@
 
 ## 🛠️ Compétences
 
-**COMPÉTENCES TECHNIQUES
-1 Programmation : Python, C, C++, JavaScript
-2 Développement Web : HTML, CSS, PHP, Vue.js, Tailwind CSS
-3 Développement Mobile : Flutter
-4 Bases de données : PostgreSQL, MongoDB
-5 Systèmes : Linux, UNIX, Windows Server
-6 Outils sécurité : Wireshark, SIEM, Cisco (bases), SQL
-**COMPÉTENCES EN CYBERSÉCURITÉ
-1 Configuration et supervision de la sécurité réseau
-2 Gestion des accès et authentification
-3 Cryptographie : chiffrement, hachage, signatures numériques
-4 Analyse de vulnérabilités et détection d’anomalies
-5 Bonnes pratiques de sécurité des applications web et WordPress sécurisé
-6 Sécurité blockchain et intégrité des journaux (logs)
+### 💻 Compétences Techniques
+
+- **Programmation :** Python, C, C++, JavaScript  
+- **Développement Web :** HTML, CSS, PHP, Vue.js, Tailwind CSS  
+- **Développement Mobile :** Flutter  
+- **Bases de données :** PostgreSQL, MongoDB  
+- **Systèmes :** Linux, UNIX, Windows Server  
+- **Outils de sécurité :** Wireshark, SIEM, Cisco (bases), SQL  
+
+---
+
+### 🔐 Compétences en Cybersécurité
+
+- Configuration et supervision de la sécurité réseau  
+- Gestion des accès et authentification  
+- Cryptographie : chiffrement, hachage, signatures numériques  
+- Analyse de vulnérabilités et détection d’anomalies  
+- Bonnes pratiques de sécurité des applications web et sécurisation WordPress  
+- Sécurité blockchain et intégrité des journaux (logs)  
+
 ---
 
 ## 🌱 Projets en cours
